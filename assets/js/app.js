@@ -7,7 +7,7 @@ secondWeighting();
 addBorder();
 
 /**
- * displays 9 balls on the screen
+ * Display 9 balls on the screen
  */
 function displayBalls() {
     for (let i = 0; i < ballArray.length; i++) {
